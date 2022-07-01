@@ -33,7 +33,7 @@
 1. [Authorization](#30-authorization)
 
 
-# 04 Database
+## 04 Database
 [![Video dari youtube](http://img.youtube.com/vi/apa-CmxYVyY/0.jpg)](http://www.youtube.com/watch?v=apa-CmxYVyY)
 
 - **Apa itu Database ??**
@@ -58,7 +58,7 @@
 
 **[⬆ back to top](#top)**
 
-# 05 Collection
+## 05 Collection
 [![Video dari youtube](http://img.youtube.com/vi/VbguzSZfvaE/0.jpg)](http://www.youtube.com/watch?v=VbguzSZfvaE)
 
 + **Apa itu Collection ??**
@@ -86,7 +86,7 @@
 
 **[⬆ back to top](#top)**
 
-# 06 Data Model
+## 06 Data Model
 [![Video dari youtube](http://img.youtube.com/vi/RURinfDM8cA/0.jpg)](http://www.youtube.com/watch?v=RURinfDM8cA)
 
 - **Kenapa Perlu Mengerti Data Modeling**
@@ -103,7 +103,7 @@
 
 **[⬆ back to top](#top)**
 
-# 07 BSON
+## 07 BSON
 [![Video dari youtube](http://img.youtube.com/vi/P9T_V2h60cY/0.jpg)](http://www.youtube.com/watch?v=P9T_V2h60cY)
 
 + **Apa itu BSON ??**
@@ -148,7 +148,7 @@
 
 **[⬆ back to top](#top)**
 
-# 08 Insert Document
+## 08 Insert Document
 [![Video dari youtube](http://img.youtube.com/vi/WRK_jXywV1Y/0.jpg)](http://www.youtube.com/watch?v=WRK_jXywV1Y)
 
 + **Apa itu Insert Document ??**
@@ -164,7 +164,7 @@
     `db.<collection>.insert(document / array)`  | Menambah satu document atau banyak dokumen
 **[⬆ back to top](#top)**
 
-# 09 Query Document
+## 09 Query Document
 [![Video dari youtube](http://img.youtube.com/vi/3An0AfYyZAM/0.jpg)](http://www.youtube.com/watch?v=3An0AfYyZAM)
 
 Sama seperti di **relational database**, di MongoDB pun kita bisa melakukan query atau pencarian document yang sudah kita simpan di collection
@@ -201,7 +201,7 @@ untuk mencari document dengan query bisa gunakan
     ~~~
 **[⬆ back to top](#top)**
 
-# 10 Comparison Query Operator
+## 10 Comparison Query Operator
 [![Video dari youtube](http://img.youtube.com/vi/M3Ho4djinHE/0.jpg)](http://www.youtube.com/watch?v=M3Ho4djinHE)
 
 **Comparison Operator** [:link:docs](https://docs.mongodb.com/manual/reference/operator/query-comparison/)
@@ -294,7 +294,7 @@ Info lebih detail : https://docs.mongodb.com/manual/reference/operator/query-com
 
 **[⬆ back to top](#top)**
 
-# 11 Logical Query Operator
+## 11 Logical Query Operator
 [![Video dari youtube](http://img.youtube.com/vi/9bwQA68o7nQ/0.jpg)](http://www.youtube.com/watch?v=9bwQA68o7nQ)
 
 **Logical Operator** [:link:docs](https://docs.mongodb.com/manual/reference/operator/query-logical/)
@@ -387,7 +387,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 12 Element Query Operator
+## 12 Element Query Operator
 [![Element Query Operator](http://img.youtube.com/vi/Qm5PHB0ZAXw/0.jpg)](http://www.youtube.com/watch?v=Qm5PHB0ZAXw)  
 
 **Element Operator** [:link:docs](https://docs.mongodb.com/manual/reference/operator/query-element/)
@@ -456,7 +456,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 13 Evaluation Query Operator
+## 13 Evaluation Query Operator
 [![Video dari youtube](http://img.youtube.com/vi/MyM_Qa4mCGM/0.jpg)](http://www.youtube.com/watch?v=MyM_Qa4mCGM)
 
 + **Evaluation Operator** [:link:docs](https://docs.mongodb.com/manual/reference/operator/query-evaluation/)
@@ -690,7 +690,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 14 Array Query Operator
+## 14 Array Query Operator
 [![Video dari youtube](http://img.youtube.com/vi/XG3-0TdxuGI/0.jpg)](http://www.youtube.com/watch?v=XG3-0TdxuGI)
 
 + **Array Operator** [:link:docs](https://docs.mongodb.com/manual/reference/operator/query-array/)
@@ -805,7 +805,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 15 Projection Operator
+## 15 Projection Operator
 [![Video dari youtube](http://img.youtube.com/vi/XLkZI244vnM/0.jpg)](http://www.youtube.com/watch?v=XLkZI244vnM)
 
 **Apa itu Projection ?**
@@ -1013,7 +1013,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 16 Query Modifier
+## 16 Query Modifier
 [![Video dari youtube](http://img.youtube.com/vi/NhnCwldKSQM/0.jpg)](http://www.youtube.com/watch?v=NhnCwldKSQM)
 
 > **Apa iitu Quary Modifier ??**
@@ -1074,7 +1074,7 @@ doc --> https://docs.mongodb.com/manual/reference/method/js-cursor/
     ~~~
 **[⬆ back to top](#top)**
 
-# 17 Update Document
+## 17 Update Document
 [![Video dari youtube](http://img.youtube.com/vi/HC44ffHosYo/0.jpg)](http://www.youtube.com/watch?v=HC44ffHosYo)
 
 + Apa itu ?
@@ -1225,7 +1225,7 @@ doc --> https://docs.mongodb.com/manual/reference/method/js-cursor/
 
 **[⬆ back to top](#top)**
 
-# 18 Field Update Operator
+## 18 Field Update Operator
 [![Video dari youtube](http://img.youtube.com/vi/SW1CzT561xU/0.jpg)](http://www.youtube.com/watch?v=SW1CzT561xU)
 
 + Apa itu ?
@@ -1350,7 +1350,7 @@ doc --> https://docs.mongodb.com/manual/reference/method/js-cursor/
 
   **[⬆ back to top](#top)**
 
-# 19 Array Update Operator
+## 19 Array Update Operator
 [![Video dari youtube](http://img.youtube.com/vi/hKk-E2_GzBw/0.jpg)](http://www.youtube.com/watch?v=hKk-E2_GzBw)
 
 **Apa itu ?**
@@ -1795,7 +1795,7 @@ doc --> https://docs.mongodb.com/manual/reference/method/js-cursor/
 
 **[⬆ back to top](#top)**
 
-# 20 Delete Document
+## 20 Delete Document
 [![Video dari youtube](http://img.youtube.com/vi/qnS4BYHmIIg/0.jpg)](http://www.youtube.com/watch?v=qnS4BYHmIIg)
 
 > **Apa iitu Quary Modifier ??**
@@ -1866,7 +1866,7 @@ Operator | Keterangan
         ~~~
 **[⬆ back to top](#top)**
 
-# 21 Bulk Write Operation
+## 21 Bulk Write Operation
 [![Video dari youtube](http://img.youtube.com/vi/zmOLV-KBH4k/0.jpg)](http://www.youtube.com/watch?v=zmOLV-KBH4k)
 
 > **Apa iitu Quary Modifier ??**
@@ -1946,7 +1946,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 22 Schema Validation
+## 22 Schema Validation
 [![Video dari youtube](http://img.youtube.com/vi/m1wnqoDJmTs/0.jpg)](http://www.youtube.com/watch?v=m1wnqoDJmTs)
 
 + **Apa itu ??**
@@ -2121,7 +2121,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 23 Indexes
+## 23 Indexes
 [![Video dari youtube](http://img.youtube.com/vi/RKtqsv9iQ0g/0.jpg)](http://www.youtube.com/watch?v=RKtqsv9iQ0g)
 
 + **Apa itu Indexes ??** [:link:docs](https://docs.mongodb.com/manual/indexes/)
@@ -2241,7 +2241,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 24 Text Indexes
+## 24 Text Indexes
 [![Video dari youtube](http://img.youtube.com/vi/b3TXEbwxnWY/0.jpg)](http://www.youtube.com/watch?v=b3TXEbwxnWY)
 
 **Apa itu Text Indexes ??** [:link:docs](https://docs.mongodb.com/manual/core/index-text/)
@@ -2326,7 +2326,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 25 Wildcard Indexes
+## 25 Wildcard Indexes
 [![Video dari youtube](http://img.youtube.com/vi/b3TXEbwxnWY/0.jpg)](http://www.youtube.com/watch?v=b3TXEbwxnWY)
 
 
@@ -2398,7 +2398,7 @@ Operator | Keterangan
     ~~~
 **[⬆ back to top](#top)**
 
-# 26 Index Properties
+## 26 Index Properties
 [![Video dari youtube](http://img.youtube.com/vi/b9VXN-WeZAk/0.jpg)](http://www.youtube.com/watch?v=b9VXN-WeZAk)
 
 + **Apa itu Index Properties ??** [:link:docs](https://docs.mongodb.com/manual/core/index-properties/)
@@ -2488,11 +2488,11 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 27 Transaction
+## 27 Transaction
 [![Video dari youtube](http://img.youtube.com/vi/RP5Q7u52dZ4/0.jpg)](http://www.youtube.com/watch?v=RP5Q7u52dZ4)
 **[⬆ back to top](#top)**
 
-# 28 Security
+## 28 Security
 [![Video dari youtube](http://img.youtube.com/vi/p_5XexsCLNw/0.jpg)](http://www.youtube.com/watch?v=p_5XexsCLNw)
 
 + **Apa itu Security ??** [:link:docs](https://docs.mongodb.com/manual/tutorial/enable-authentication/)
@@ -2528,7 +2528,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 29 Authentication
+## 29 Authentication
 [![Video dari youtube](http://img.youtube.com/vi/7-HqgNofQsc/0.jpg)](http://www.youtube.com/watch?v=7-HqgNofQsc)
 
 + **Apa itu Authentication ??** [:link:docs](https://docs.mongodb.com/manual/core/authentication/)
@@ -2633,7 +2633,7 @@ Operator | Keterangan
 
 **[⬆ back to top](#top)**
 
-# 30 Authorization
+## 30 Authorization
 [![Video dari youtube](http://img.youtube.com/vi/OHzTZ6htW1I/0.jpg)](http://www.youtube.com/watch?v=OHzTZ6htW1I)
 
 + **Apa itu Authentication ??** [:link:docs](https://docs.mongodb.com/manual/core/authentication/)
